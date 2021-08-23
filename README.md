@@ -1,14 +1,17 @@
 # Credit Line Increase Model Card
+
 ### Basic Information
 * __Person or organization developing model__: Shuning Ma, `shuningma@gwu.edu`
 * __Model date__: August, 2021
 * __Model version__: 1.0
 * __License__: MIT
-* __Model implementation code__: DNSC_6301_Project.ipynb
+* __Model implementation code__: [DNSC_6301_Project.ipynb](DNSC 6301 Project.ipynb)
+
 ### Intended Use
 * __Primary intended uses__: This model is an example probability of default classifier, with an example use case for determining eligibility for a credit line increase.
 * __Primary intended users__: Students in GWU DNSC 6301 bootcamp.
 * __Out-of-scope use cases__: Any use beyond an educational example is out-of-scope.
+
 ### Training Data
 * Data dictionary:
 
