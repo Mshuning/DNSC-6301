@@ -1,6 +1,6 @@
 # Credit Line Increase Model Card
 ### Basic Information
-* __Person or organization developing model__: Shuning Ma, shuningma@gwu.edu
+* __Person or organization developing model__: Shuning Ma, 'shuningma@gwu.edu'
 * __Model date__: August, 2021
 * __Model version__: 1.0
 * __License__: MIT
