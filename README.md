@@ -13,7 +13,7 @@
 * __Out-of-scope use cases__: Any use beyond an educational example is out-of-scope.
 
 ### Training Data
-* Data dictionary:
+* **Data dictionary**:
 
 | Name | Modeling Role | Measurement Level| Description|
 | ---- | ------------- | ---------------- | ---------- |
@@ -50,6 +50,7 @@
 
 ### Quantitative analysis
 * **Metrics used to evaluate your final model**: Confusion metrix & AUC & AIR
-* **State the final values of the metrics for all data: training, validation, and test data**
-* **Provide any plots related to your data or final model -- be sure to label the plots!**
+* **State the final values of the metrics for all data: training, validation, and test data**:
+
+* **Provide any plots related to your data or final model -- be sure to label the plots!**:
 ![image](https://user-images.githubusercontent.com/31402450/130837562-70373579-fa81-4fdd-8748-99f474801996.png)
