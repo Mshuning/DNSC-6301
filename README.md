@@ -62,10 +62,10 @@
 ![image](https://user-images.githubusercontent.com/31402450/130837562-70373579-fa81-4fdd-8748-99f474801996.png)
 
 ### Ethical considerations
-* **Describe potential negative impacts of using your model**:
+* **Describe potential negative impacts of using your model**
   * **Math or software problems**
   * **Real-world risks: who, what, when or how**
-* **Describe potential uncertainties relating to the impacts of using your model**:
+* **Describe potential uncertainties relating to the impacts of using your model**
   * **Math or software problems**
   * **Real-world risks: who, what, when or how**
 * **Describe any unexpected or results**: None
