@@ -51,6 +51,21 @@
 ### Quantitative analysis
 * **Metrics used to evaluate your final model**: Confusion metrix & AUC & AIR
 * **State the final values of the metrics for all data: training, validation, and test data**:
-
+  * **Training AUC**: 0.78
+  * **Validation AUC**: 0.75
+  * **Test AUC**: 0.74
+  * **Asian-to-White AIR**: 1.00
+  * **Black-to-White AIR**: 0.85
+  * **Female-to-Male AIR**: 1.02
+  * **Hispanic-to-White AIR**: 0.83
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
 ![image](https://user-images.githubusercontent.com/31402450/130837562-70373579-fa81-4fdd-8748-99f474801996.png)
+
+### Ethical considerations
+* **Describe potential negative impacts of using your model**:
+  * **Math or software problems**
+  * **Real-world risks: who, what, when or how**
+* **Describe potential uncertainties relating to the impacts of using your model**:
+  * **Math or software problems**
+  * **Real-world risks: who, what, when or how**
+* **Describe any unexpected or results**: None
