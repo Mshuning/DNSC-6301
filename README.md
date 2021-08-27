@@ -63,8 +63,8 @@
 
 ### Ethical considerations
 * **Describe potential negative impacts of using your model**
-  * **Math or software problems**
-  * **Real-world risks: who, what, when or how**
+  * **Math or software problems**: It's computationally expensive to grow a tree with depth = 6
+  * **Real-world risks: who, what, when or how**: 
 * **Describe potential uncertainties relating to the impacts of using your model**
   * **Math or software problems**
   * **Real-world risks: who, what, when or how**
