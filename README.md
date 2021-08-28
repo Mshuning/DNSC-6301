@@ -30,14 +30,14 @@
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
 * **Source of training data**: GWU Blackboard, email `shuningma@gwu.edu` for more information
-* **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
+* **How training data was divided into training and validation data**: 60% training, 20% validation, 20% test
 * **Number of rows in training and validation data**:
-  * Training rows: 15,000
-  * Validation rows: 7,500
+  * Training rows: 18,000
+  * Validation rows: 6,000
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `shuningma@gwu.edu` for more information
-* **Number of rows in test data**: 7,500
+* **Number of rows in test data**: 6,000
 * **State any differences in columns between training and test data**: None
 
 ### Model details
