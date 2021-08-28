@@ -53,10 +53,10 @@
 * **State the final values of the metrics for all data: training, validation, and test data**:
   * **Training AUC**: 0.78
   * **Validation AUC**: 0.75
-  * **Test AUC**: 0.74
-  * **Asian-to-White AIR**: 1.00
-  * **Black-to-White AIR**: 0.85
-  * **Female-to-Male AIR**: 1.02
+  * **Test AUC**: 0.75
+  * **Asian-to-White AIR**: 1.01
+  * **Black-to-White AIR**: 0.83
+  * **Female-to-Male AIR**: 1.04
   * **Hispanic-to-White AIR**: 0.83
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
 ![image](https://user-images.githubusercontent.com/31402450/130837562-70373579-fa81-4fdd-8748-99f474801996.png)
