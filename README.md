@@ -64,7 +64,7 @@
 ### Ethical considerations
 * **Describe potential negative impacts of using your model**
   * **Math or software problems**: Maybe computationally expensive for some computers to grow the decision tree
-  * **Real-world risks: who, what, when or how**: hackers
+  * **Real-world risks: who, what, when or how**: The AIR of Black-to-White and Hispanic-to-White are not very well. When using this model to give credit line increase to people, less blck and hispanic people will be given credit line increase compared to white people with similar conditions. 
 * **Describe potential uncertainties relating to the impacts of using your model**
   * **Math or software problems**
   * **Real-world risks: who, what, when or how**
