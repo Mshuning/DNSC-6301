@@ -68,4 +68,4 @@
 * **Describe potential uncertainties relating to the impacts of using your model**
   * **Math or software problems**: 
   * **Real-world risks: who, what, when or how**
-* **Describe any unexpected or results**: None
+* **Describe any unexpected or results**: When running this model, even with the same SEED, the results change slightly everytime. 
