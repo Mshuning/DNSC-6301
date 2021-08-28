@@ -67,5 +67,5 @@
   * **Real-world risks: who, what, when or how**: The Adverse impact ratio of Black-to-White and Hispanic-to-White are not very well. When using this model to give credit line increase to people, less black and hispanic people will be given credit line increase compared to white people with similar conditions. 
 * **Describe potential uncertainties relating to the impacts of using your model**
   * **Math or software problems**: Can easily attcked by hackers changing PAY_0 to determine results they want. 
-  * **Real-world risks: who, what, when or how**: May cause 
+  * **Real-world risks: who, what, when or how**: May exposed to  well-known risks such as DDOS or man-in-the-middle attacks, and packages it depends on could potentially be hacked to conceal an attack payload. 
 * **Describe any unexpected or results**: When running this model, even with the same SEED, the results change slightly everytime. 
